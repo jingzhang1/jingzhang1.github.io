@@ -1,1 +1,6 @@
-# jingzhang1.github.io
+# My personal website
+
+My [`jekyll`](http://jekyllrb.com/) theme is modified from [hyde](https://github.com/poole/hyde). 
+
+
+
