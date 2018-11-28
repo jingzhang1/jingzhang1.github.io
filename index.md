@@ -11,7 +11,7 @@ title: Home
 <div class="row">
   <p>
   I am Jing Zhang, a 3rd year Master student at
-  <a href="https://www.utexas.edu">Fudan University</a> , Department of Biostatistics. I am fortunately to be supervised by
+  <a href="https://www.utexas.edu">Fudan University</a>, Department of Biostatistics. I am fortunately to be supervised by
   <a href="https://mingyuanzhou.github.io">Prof. Mingyuan Zhou</a> and also work with   <a href="https://psarkar.github.io"> Prof. Purnamrita Sarkar </a>.  Before coming to UT, I spent four years as undergraduate in <a href="http://www.fudan.edu.cn/en/"> Fudan University</a> studying <a href="http://math.fudan.edu.cn/olden/Index.htm"> mathematics</a>.
   I am broadly interested in statistical machine learning and Bayesian methods. Some of my interests are 
   <p>
