@@ -14,18 +14,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mingzhang Yin
+title: Jing Zhang
 
-email: mzyin@utexas.edu
+email: zhang_jing16@fudan.edu.cn
 
 #description: > Mingzhang's homepage# this means to ignore newlines until "baseurl:"
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 
-url: "https://mingzhang-yin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jingzhang1.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social media usernames
-#github_username:      mingzhang-yin
+github_username:      16211020010@fudan.edu.cn
 #stackexchange_username: 5834317
 #stackoverflow_username: 6307081
 #twitter_username:     HeesooRandi
