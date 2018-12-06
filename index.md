@@ -7,6 +7,7 @@ title: Home
  <h1 class="page-title">Home</h1>
 </div>
 
+![](https://jingzhang1.github.io/assets/clinical%20trial%20project/Treatment%20Exposure%20and%20Dose%20Intensity.png)
 <div>
 <div class="row">
   <p>
