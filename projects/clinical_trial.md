@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title: "Statistical Analysis for Clincal Trials"
 ---
 
