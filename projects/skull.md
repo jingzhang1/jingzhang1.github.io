@@ -1,8 +1,6 @@
 ---
 layout: project
 title: "Primate skull evolution"
-author: Randi H. Griffin
-comments: false
 ---
 
 ___
