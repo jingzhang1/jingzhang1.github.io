@@ -2,6 +2,16 @@
 layout: page
 title: Code
 ---
+## Contents
+* [Statistical Analyses in Clinical Trials](#Statistical Analyses in Clinical Trials)  
+  * [Study summaries](#STUDY SUMMARIES)  
+    * [Treatment exposure and dose intensity](#Treatment exposure and dose intensity)  
+    * [Characteristics of the patients at baseline](#Characteristics of the patients at baseline)
+  * [EFFICACY ANALYSES](#EFFICACY ANALYSES)  
+    * [Survival analysis for the primary endpoint such as progression-free survival](@Survival analysis for the primary endpoint such as progression-free survival)  
+    * [Forest-plot analyses of progression-free survival in key subgroups](#Forest-plot analyses of progression-free survival in key subgroups)  
+    
+    
 ## Statistical Analyses in Clinical Trials
 
 Contents
