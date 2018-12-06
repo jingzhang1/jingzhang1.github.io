@@ -16,7 +16,7 @@ title: Home
   <ul>
   <li> Spatial statistics, eg. spatially varying coefficient models; </li>
   <li> Propensity score estimation, eg. robustness to uncontrolled confounders; </li>   
-  <li> Infectious disease modelling; </li>
+  <li> Infectious disease modelling and epidemiology, especially tuberculosis; </li>
   <li> Clinical trials design and analysis </li>
   </ul>
  
