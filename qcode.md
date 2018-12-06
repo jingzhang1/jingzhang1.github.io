@@ -5,15 +5,15 @@ title: Code
 ## Contents
 * [Statistical Analyses in Clinical Trials](#Statistical-Analyses-in-Clinical-Trials)  
   * [Data](#Data)
-  * [STUDY SUMMARIES](#STUDY-SUMMARIES)  
+  * [Study Summaries](#Study-Summaries)  
     * [Treatment exposure and dose intensity](#Treatment-exposure-and-dose-intensity)  
     * [Characteristics of the patients at baseline](#Characteristics-of-the-patients-at-baseline)
-  * [EFFICACY ANALYSES](#EFFICACY-ANALYSES)  
+  * [Efficacy Analyses](#Efficacy-Analyses)  
     * [Survival analysis for the primary endpoint such as progression-free survival](#Survival-analysis-for-the-primary-endpoint-such-as-progression-free-survival)  
     * [Forest-plot analyses of progression-free survival in key subgroups](#Forest-plot-analyses-of-progression-free-survival-in-key-subgroups)  
     * [Summaries of response rate, duration of response and disease progression](#Summaries-of-response-rate,-duration-of-response-and-disease-progression)  
     * [Kaplan-Meier analysis of duration of response](#Kaplan-Meier-analysis-of-duration-of-response)  
-  * [SAFETY ANALYSES](#SAFETY-ANALYSES)
+  * [Safety Analyses](#Safety-Analyses)
     * [Summaries of key adverse events](#Summaries-of-key-adverse-events)  
     
 ## Statistical Analyses in Clinical Trials
@@ -146,7 +146,7 @@ head(dt)
     ## 6      1738     5.2         1        3      NA        NA        2        1
 
 
-### **STUDY SUMMARIES**
+### **Study Summaries**
 ---
 ### Treatment exposure and dose intensity
 ---
@@ -219,7 +219,7 @@ done(rtffile)
 
 ![](https://jingzhang1.github.io/assets/clinical%20trial%20project/Characteristics%20of%20the%20Patients%20at%20Baseline.png)
 
-### **EFFICACY ANALYSES**
+### **Efficacy Analyses**
 ---
 ### Survival analysis for the primary endpoint such as progression-free survival
 ---
@@ -467,7 +467,7 @@ ggsave(filename="Duration of response plot.jpeg",
 
 ![](https://jingzhang1.github.io/assets/clinical%20trial%20project/Duration%20of%20response%20plot.jpeg)
 
-### **SAFETY ANALYSES**
+### **Safety Analyses**
 ---
 ### Summaries of key adverse events
 ---
