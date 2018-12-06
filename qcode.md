@@ -3,19 +3,18 @@ layout: page
 title: Code
 ---
 ## Contents
-* [Statistical Analyses in Clinical Trials](#Statistical20%Analyses20%in20%Clinical20%Trials)  
+* [Statistical Analyses in Clinical Trials](#Statistical-Analyses-in-Clinical-Trials)  
   * [Data](#Data)
-  * [STUDY SUMMARIES](#STUDY20%SUMMARIES)  
-    * [Treatment exposure and dose intensity](#Treatment20%exposure20%and20%dose20%intensity)  
-    * [Characteristics of the patients at baseline](#Characteristics20%of20%the20%patients20%at20%baseline)
-  * [EFFICACY ANALYSES](#EFFICACY20%ANALYSES)  
-    * [Survival analysis for the primary endpoint such as progression-free survival](#Survival20%analysis20%for20%the20%primary20%endpoint20%such20%as20%progression-free20%survival)  
-    * [Forest-plot analyses of progression-free survival in key subgroups](#Forest-plot20%analyses20%of20%progression-free20%survival20%in20%key20%subgroups)  
-    * [Summaries of response rate, duration of response and disease progression](#Summaries20%of20%response20%rate,20%duration20%of20%response20%and20%disease20%progression)  
-    * [Kaplan-Meier analysis of duration of response](#Kaplan-Meier20%analysis20%of20%duration20%of20%response)  
-  * [SAFETY ANALYSES](#SAFETY20%ANALYSES)
-    * [Summaries of key adverse events](#Summaries20%of20%key20%adverse20%events)
-    
+  * [STUDY SUMMARIES](#STUDY-SUMMARIES)  
+    * [Treatment exposure and dose intensity](#Treatment-exposure-and-dose-intensity)  
+    * [Characteristics of the patients at baseline](#Characteristics-of-the-patients-at-baseline)
+  * [EFFICACY ANALYSES](#EFFICACY-ANALYSES)  
+    * [Survival analysis for the primary endpoint such as progression-free survival](#Survival-analysis-for-the-primary-endpoint-such-as-progression-free-survival)  
+    * [Forest-plot analyses of progression-free survival in key subgroups](#Forest-plot-analyses-of-progression-free-survival-in-key-subgroups)  
+    * [Summaries of response rate, duration of response and disease progression](#Summaries-of-response-rate,-duration-of-response-and-disease-progression)  
+    * [Kaplan-Meier analysis of duration of response](#Kaplan-Meier-analysis-of-duration-of-response)  
+  * [SAFETY ANALYSES](#SAFETY-ANALYSES)
+    * [Summaries of key adverse events](#Summaries-of-key-adverse-events)  
     
 ## Statistical Analyses in Clinical Trials
 ---
