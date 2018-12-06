@@ -20,6 +20,4 @@ Projects I have involved are listed here. Some code and results are shared also.
 • Implemented the robustness index, probability values and percentage points for Pearson distributions in R  
 • Improve the method by augmenting the sampling space and bootstrap  
 
-### Statistical Analyses in Clinical Trials
-• Wrote [R code](https://github.com/jingzhang1/jingzhang1.github.io/blob/master/projects/clinical_trial.md) for implementing basic statisical analyses in clinical trials  
 
