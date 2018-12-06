@@ -3,9 +3,6 @@ layout: project
 title: "Statistical Analysis for Clincal Trials"
 ---
 
-Statistical Analysis for Clincal Trials
-================
-
 Contents
 --------
 
