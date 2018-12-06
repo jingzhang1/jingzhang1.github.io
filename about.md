@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Experience
+title: Education and Experience
 ---
 ### EDUCATION
 **[Fudan University](http://www.fudan.edu.cn/en/)**, Shanghai  
