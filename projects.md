@@ -21,5 +21,5 @@ Projects I have involved are listed here. Some code and results are shared also.
 • Improve the method by augmenting the sampling space and bootstrap  
 
 ### Statistical Analyses in Clinical Trials
-• Wrote [R code](https://jingzhang1.github.io/projects/clinical_trial.md) for implementing basic statisical analyses in clinical trials  
+• Wrote [R code](jingzhang1.github.io/projects/clinical_trial.md) for implementing basic statisical analyses in clinical trials  
 
