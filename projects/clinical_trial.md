@@ -6,18 +6,18 @@ Contents
 
 There are mainly three parts for the statistical analyses of clinical trials. Here it shows the code I wrote to implement these analyses in R and output related figures and tables.
 
-1.  **STUDY SUMMARIES**
-    1.1 Treatment exposure and dose intensity
-    1.2 Characteristics of the patients at baseline
+1.  **STUDY SUMMARIES**  
+    1.1 Treatment exposure and dose intensity  
+    1.2 Characteristics of the patients at baseline  
 
-2.  **EFFICACY ANALYSES**
-    2.1 Survival analysis for the primary endpoint such as progression-free survival
-    2.2 Forest-plot analyses of progression-free survival in key subgroups
-    2.3 Summaries of response rate, duration of response and disease progression
-    2.4 Kaplan-Meier analysis of duration of response
+2.  **EFFICACY ANALYSES**  
+    2.1 Survival analysis for the primary endpoint such as progression-free survival  
+    2.2 Forest-plot analyses of progression-free survival in key subgroups  
+    2.3 Summaries of response rate, duration of response and disease progression  
+    2.4 Kaplan-Meier analysis of duration of response  
 
-3.  **SAFETY ANALYSES**
-    3.1 Summaries of key adverse events
+3.  **SAFETY ANALYSES**  
+    3.1 Summaries of key adverse events  
 
 Data (Download [example\_data](https://jingzhang1.github.io/assets/example_data.csv) )
 --------------------------------------------------------------------------------------
@@ -392,7 +392,6 @@ mytable <- xtabs(~group+response1+strata, data=dt)
 a<-mantelhaen.test(mytable)
 a$p.value
 
-##率差及可信区间,正态近似
 addmargins(table(dt$response1,dt$group),1)
 prop.table(table(dt$response1,dt$group),2)
 ord<-0.141-0.568
