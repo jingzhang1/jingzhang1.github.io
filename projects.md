@@ -3,8 +3,6 @@ layout: page
 title: Projects
 ---
 
-Projects I have involved are listed here. Some code and results are shared also.
-
 ### Simulation-based comparisons between generalized spatially varying coefficient models
 • Generated varying-coefficient simulation data based on logistic distribution, according to disease occurrence  
 • Compared generalized geographically weighted regression with Bayesian spatially varying coefficient model  
