@@ -5,7 +5,7 @@ title: Code
 ## Contents
 * [Statistical Analyses in Clinical Trials](#Statistical20%Analyses20%in20%Clinical20%Trials)  
   * [Data](#Data)
-  * [Study summaries](#STUDY20%SUMMARIES)  
+  * [STUDY SUMMARIES](#STUDY20%SUMMARIES)  
     * [Treatment exposure and dose intensity](#Treatment20%exposure20%and20%dose20%intensity)  
     * [Characteristics of the patients at baseline](#Characteristics20%of20%the20%patients20%at20%baseline)
   * [EFFICACY ANALYSES](#EFFICACY20%ANALYSES)  
