@@ -3,39 +3,27 @@ layout: page
 title: Code
 ---
 ## Contents
-* [Statistical Analyses in Clinical Trials](#Statistical Analyses in Clinical Trials)  
-  * [Study summaries](#STUDY SUMMARIES)  
-    * [Treatment exposure and dose intensity](#Treatment exposure and dose intensity)  
-    * [Characteristics of the patients at baseline](#Characteristics of the patients at baseline)
-  * [EFFICACY ANALYSES](#EFFICACY ANALYSES)  
-    * [Survival analysis for the primary endpoint such as progression-free survival](@Survival analysis for the primary endpoint such as progression-free survival)  
-    * [Forest-plot analyses of progression-free survival in key subgroups](#Forest-plot analyses of progression-free survival in key subgroups)  
+* [Statistical Analyses in Clinical Trials](#Statistical20%Analyses20%in20%Clinical20%Trials)  
+  * [Data](#Data)
+  * [Study summaries](#STUDY20%SUMMARIES)  
+    * [Treatment exposure and dose intensity](#Treatment20%exposure20%and20%dose20%intensity)  
+    * [Characteristics of the patients at baseline](#Characteristics20%of20%the20%patients20%at20%baseline)
+  * [EFFICACY ANALYSES](#EFFICACY20%ANALYSES)  
+    * [Survival analysis for the primary endpoint such as progression-free survival](#Survival20%analysis20%for20%the20%primary20%endpoint20%such20%as20%progression-free20%survival)  
+    * [Forest-plot analyses of progression-free survival in key subgroups](#Forest-plot20%analyses20%of20%progression-free20%survival20%in20%key20%subgroups)  
+    * [Summaries of response rate, duration of response and disease progression](#Summaries20%of20%response20%rate,20%duration20%of20%response20%and20%disease20%progression)  
+    * [Kaplan-Meier analysis of duration of response](#Kaplan-Meier20%analysis20%of20%duration20%of20%response)  
+  * [SAFETY ANALYSES](#SAFETY20%ANALYSES)
+    * [Summaries of key adverse events](#Summaries20%of20%key20%adverse20%events)
     
     
 ## Statistical Analyses in Clinical Trials
+---
 
-Contents
---------
-
-There are mainly three parts for the statistical analyses of clinical trials. Here it shows the code I wrote to implement these analyses in R and output related figures and tables.
-
-1.  **STUDY SUMMARIES**  
-    1.1 Treatment exposure and dose intensity  
-    1.2 Characteristics of the patients at baseline  
-
-2.  **EFFICACY ANALYSES**  
-    2.1 Survival analysis for the primary endpoint such as progression-free survival  
-    2.2 Forest-plot analyses of progression-free survival in key subgroups  
-    2.3 Summaries of response rate, duration of response and disease progression  
-    2.4 Kaplan-Meier analysis of duration of response  
-
-3.  **SAFETY ANALYSES**  
-    3.1 Summaries of key adverse events  
-
-Data (Download [example\_data](https://jingzhang1.github.io/assets/example_data.csv) )
+Data 
 --------------------------------------------------------------------------------------
 
-Synthetic data is used to illustrate results. Some data may not be meaningful.
+Synthetic data ([Download](https://jingzhang1.github.io/assets/example_data.csv)) is used to illustrate results. Some data may not be meaningful.
 
 There are 159 observations, 64 of which are in Group0, the control group, and 95 of which are in Group1, the experiment group.
 
@@ -136,9 +124,6 @@ The 20 variables are as follows.
 </tbody>
 </table>
 
-Code and Results
-----------------
-
 ### Read data
 
 ``` r
@@ -161,10 +146,11 @@ head(dt)
     ## 5      1798     1.5         0        3      NA        NA        0        3
     ## 6      1738     5.2         1        3      NA        NA        2        1
 
-### 1. **STUDY SUMMARIES**
 
-### 1.1 Treatment exposure and dose intensity
-
+### **STUDY SUMMARIES**
+---
+### Treatment exposure and dose intensity
+---
 ``` r
 library("tableone")
 listVars<-c("week","cycle","dose","totaldose")
@@ -205,8 +191,8 @@ done(rtffile)
 
 ![](https://jingzhang1.github.io/assets/clinical%20trial%20project/Treatment%20Exposure%20and%20Dose%20Intensity.png)
 
-### 1.2 Characteristics of the patients at baseline
-
+### Characteristics of the patients at baseline
+---
 ``` r
 library("tableone")
 listVars <- c("age","agegroup","bmi","sex","ecog","stage","class")
@@ -234,10 +220,10 @@ done(rtffile)
 
 ![](https://jingzhang1.github.io/assets/clinical%20trial%20project/Characteristics%20of%20the%20Patients%20at%20Baseline.png)
 
-### 2. **EFFICACY ANALYSES**
-
-### 2.1 Survival analysis for the primary endpoint such as progression-free survival
-
+### **EFFICACY ANALYSES**
+---
+### Survival analysis for the primary endpoint such as progression-free survival
+---
 ``` r
 library("survival")
 library("survminer")
@@ -297,8 +283,8 @@ ggsave(filename="Kaplan-Meier plot.jpeg", km2, width=26, height=23, dpi=500, uni
 
 ![](https://jingzhang1.github.io/assets/clinical%20trial%20project/Kaplan-Meier%20plot.jpeg)
 
-### 2.2 Forest-plot analyses of progression-free survival in key subgroups
-
+### Forest-plot analyses of progression-free survival in key subgroups
+---
 ``` r
 library("survival")
 sex1<-coxph(Surv(pfsyear,pfscensor)~group,subset={sex==1},data=dt) 
@@ -352,8 +338,8 @@ forest(metaba,
 
 ![](clinical_trial_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-5-1.png)
 
-### 2.3 Summaries of response rate, duration of response and disease progression
-
+### Summaries of response rate, duration of response and disease progression
+---
 ``` r
 library("tableone")
 table1 <- CreateCatTable(vars = "response", data = dt, strata = "group",test=F)
@@ -431,8 +417,8 @@ done(rtffile)
 
 ![](https://jingzhang1.github.io/assets/clinical%20trial%20project/Summaries%20of%20response%20rate,%20duration%20of%20response%20and%20disease%20progression.png)
 
-### 2.4 Kaplan-Meier analysis of duration of response
-
+### Kaplan-Meier analysis of duration of response
+---
 ``` r
 library("survival")
 library("survminer")
@@ -482,10 +468,10 @@ ggsave(filename="Duration of response plot.jpeg",
 
 ![](https://jingzhang1.github.io/assets/clinical%20trial%20project/Duration%20of%20response%20plot.jpeg)
 
-### 3. **SAFETY ANALYSES**
-
-### 3.1 Summaries of key adverse events
-
+### **SAFETY ANALYSES**
+---
+### Summaries of key adverse events
+---
 ``` r
 library("tableone")
 ###adverse event any grade, redefine a variable
