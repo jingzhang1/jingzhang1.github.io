@@ -3,7 +3,7 @@ layout: page
 title: Experience
 ---
 ### EDUCATION
-**Fudan University**, Shanghai  
+**[Fudan University](http://www.fudan.edu.cn/en/)**, Shanghai  
 • Master of Science in Biostatistics, GPA 3.54/4.0 *Expected June 2019*  
 • Bachelor of Medicine in Clinical Medicine *June 2016*    
 • Relevant Coursework: Advanced Mathematics (I & II), Statistical Inference, Multilevel Model; Applied Linear
@@ -11,13 +11,13 @@ Statistical Model, Biostatistics, Multivariate Statistics in Medicine, Introduct
 Statistical Analysis Using SAS Program, Computer Software in Epidemiology, Clinical Epidemiology, Principles of
 Epidemiology, Preventive Medicine
 
-**Duke University**, Durham, NC *Summer 2016*  
+**[Duke University](https://www.duke.edu/)**, Durham, NC *Summer 2016*  
 • A 6-week summer session, GPA 3.65/4.0  
 • Two courses: Linear Algebra and Differential Equations, Educational Psychology  
 • Independently completed Case Studies and presented the results to professors and students  
 
 ### EXPERIENCE  
-**Fudan University**, *Research Assistant*, Shanghai *Fall 2016-Now*  
+**[Fudan University](http://www.fudan.edu.cn/en/)**, *Research Assistant*, Shanghai *Fall 2016-Now*  
 • Independently completed data analysis projects in [clinical trials](), cross-sectional studies, longitudinal studies  
 • Wrote R code for various kind of analysis and shared it on github  
 
