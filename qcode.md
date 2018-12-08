@@ -2,7 +2,7 @@
 layout: page
 title: Code
 ---
-I post the code I wrote in various projects here for reference. If there is any problem or advice, feel free to contact me at my email(zhang_jing16@fudan.edu.cn).
+I post the code I wrote in various projects here for reference. If there is any problem or advice, feel free to contact me at my email (zhang_jing16@fudan.edu.cn).
 ## Contents
 * [Statistical Analyses in Clinical Trials](#Statistical-Analyses-in-Clinical-Trials)  
   * [Data](#Data)
