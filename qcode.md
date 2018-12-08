@@ -320,7 +320,7 @@ library(meta)
 metaba<-metagen(coef,se,data=datacoef,sm="HR",studlab=group,
                 label.e="group=0",label.c="group=1",
                 byvar=subgroup,print.byvar = TRUE)
-forest(metaba,
+plot<-forest(metaba,
        leftcols=c("group","grp0","grp1"),
        leftlabs=c("Subgroup", "Group 0", "Group 1"),
        just.addcols.left=c("left","center","center"),
@@ -335,8 +335,7 @@ forest(metaba,
        ref=1,print.I2=FALSE,print.tau2=FALSE,
        comb.fixed=FALSE,print.Q.subgroup=FALSE,comb.random=FALSE)
 ```
-
-![](clinical_trial_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-5-1.png)
+![](https://jingzhang1.github.io/assets/clinical%20trial%20project/Subgroup.jpeg)
 
 ### Summaries of response rate, duration of response and disease progression
 ---
