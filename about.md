@@ -3,17 +3,20 @@ layout: page
 title: Education and Experience
 ---
 ### EDUCATION
+**[Case Western Reserve University](https://case.edu/)**, Cleveland, OH  
+* PhD in Epidemiology and Biostatistics,  *Sept 2019-Current*  
+
 **[Fudan University](http://www.fudan.edu.cn/en/)**, Shanghai  
-* Master of Science in Biostatistics, GPA 3.54/4.0 *Expected June 2019*  
+* Master of Science in Biostatistics, GPA 3.54/4.0 *June 2019*  
 * Bachelor of Medicine in Clinical Medicine *June 2016*    
+*	Relevant Coursework: Advanced Mathematics (I & II), Statistical Inference, Multilevel Model; Applied Linear Statistical Model, Biostatistics, Multivariate Statistics in Medicine, Introduction to Statistical Analysis Using R, Statistical Analysis Using SAS Program, Computer Software in Epidemiology, Clinical Epidemiology, Principles of Epidemiology, Preventive Medicine
 
 **[Duke University](https://www.duke.edu/)**, Durham, NC *Summer 2016*  
-* A 6-week summer session, GPA 3.65/4.0  
-* Two courses: Linear Algebra and Differential Equations, Educational Psychology  
+* A 6-week summer session taking two courses: Linear Algebra and Differential Equations, Educational Psychology  
 * Independently completed Case Studies and presented the results to professors and students  
 
 ### EXPERIENCE  
-**[Fudan University](http://www.fudan.edu.cn/en/)**, **_Research Assistant_**, Shanghai *Fall 2016-Now*  
+**[Fudan University](http://www.fudan.edu.cn/en/)**, **_Research Assistant_**, Shanghai *Fall 2016-June 2019*  
 * Independently completed data analysis projects in [clinical trials](), cross-sectional studies, longitudinal studies  
 * Wrote R code for various kind of analysis and shared it on github  
 
@@ -27,7 +30,7 @@ undergraduate and graduate students to do fundamental statistical analysis using
 * Analyzed the spatial and temporal features for the prevalence of tuberculosis among different population  
 * Found spatial clusters for poor tuberculosis treatment outcome and analyzed the risk factors for it 
 
-**[Safe Kids Worldwide](https://www.safekids.org/)**, **_Intern_**, Shanghai *Fall 2016- Now*  
+**[Safe Kids Worldwide](https://www.safekids.org/)**, **_Intern_**, Shanghai *Fall 2016- June 2019*  
 * Translated valuable articles to spread the ideas of keeping kids safe from injuries and child passenger safety in China  
 
 **[Huashan Hospital](https://huashan.org.cn/)**, **_Clinical Intern_**, Shanghai *Fall 2015-Spring 2016*  
