@@ -5,7 +5,7 @@ title: Projects
 
 ### Simulation-based comparisons between generalized spatially varying coefficient models  
 * Generated varying-coefficient simulation data based on logistic distribution, according to disease occurrence </li> 
-* Compared generalized geographically weighted regression with Bayesian spatially varying coefficient model  
+* Compared generalized geographically weighted regression under different distributions 
 * Applied the result to tuberculosis in Shanghai, and Hand, Foot, and Mouth disease in 7 provinces in China  
 
 ### Effects of spatial autocorrelation and hospitals on tuberculosis treatment outcome: An implication of tuberculosis control in a highly integrated city  
