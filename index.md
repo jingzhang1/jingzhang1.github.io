@@ -20,5 +20,5 @@ title: Home
   <li> Clinical trials design and analysis </li>
   </ul>
  
- Download my <a href="https://jingzhang1.github.io/assets/pdfs/Resume_Jing%20Zhang.pdf">CV</a>
+ Download my CV <a href="https://github.com/jingzhang1/jingzhang1.github.io/blob/master/assets/pdfs/Resume_Jing%20Zhang%202019.9.pdf">here</a>
  <img src="https://jingzhang1.github.io/assets/images/mmexport1515251236988_mr1515251523635yasuo1.jpg" width= "200" >
