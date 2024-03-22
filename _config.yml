@@ -25,12 +25,13 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://jingzhang1.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social media usernames
-github_username:      16211020010@fudan.edu.cn
+github_username:      jingzhang1
 #stackexchange_username: 5834317
 #stackoverflow_username: 6307081
 #twitter_username:     HeesooRandi
 #facebook_username:    rgriff23
-#linkedin_username:    randigriffin
+linkedin_username:    jingxzhang
+google:     JingZhang
 #gplus_username: 112245393392023660495
 
 #maruku 
