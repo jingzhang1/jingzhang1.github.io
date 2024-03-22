@@ -21,7 +21,7 @@ My research focuses on
   <li> Early stopping and personalized design for real-time functional MRI experimentation
   <li> Spatial statistics and infectious disease 
   <li> Propensity Score Method
-</ul>
+ </ul>
 
 <p> 
  
@@ -32,6 +32,6 @@ Assistant in Biostatistics. I have hands-on experience in
   <li> Cross-sectional study in neurology and infectious disease 
   <li> Longitudinal study of myopia surgery 
   <li> Grant proposal and sample size calculation for various studies
-</ul>
+ </ul>
  <p>Download my CV <a href="assets/pdfs/Resume_Jing Zhang 2024.pdf">here</a>
  
