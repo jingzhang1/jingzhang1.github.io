@@ -2,7 +2,7 @@
 layout: page
 title: Code
 ---
-I post the code I wrote in various projects here for reference. If there is any problem or advice, feel free to contact me at my email (zhang_jing16@fudan.edu.cn).
+I post the code I wrote in various projects here for reference. If there is any problem or advice, feel free to contact me at my email (jing.zhang17@case.edu).
 ## Contents
 * [Statistical Analyses in Clinical Trials](#Statistical-Analyses-in-Clinical-Trials)  
   * [Data](#Data)
@@ -373,7 +373,7 @@ table2[,c(1:8)]<-NULL
 
 ###DOR,CENSOR
 library("survival")
-fitdor <- survfit(Surv(doryear, dorcensor) ~ group, data = dt) ##包含生存期基本信息
+fitdor <- survfit(Surv(doryear, dorcensor) ~ group, data = dt) 
 dorsum<-summary(fitdor)$table
 
 for (i in 1:2){
