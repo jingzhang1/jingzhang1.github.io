@@ -17,10 +17,10 @@ I am Jing Zhang, a PhD candidate in Biostatistics at <a href="https://case.edu/m
  
 My research focuses on 
  <ul> 
-  <li> Quantification of uncertainty in dynamic functional connectivity in brain functional MRI imaging data
-  <li> Early stopping and personalized design for real-time functional MRI experimentation
-  <li> Spatial statistics and infectious disease 
-  <li> Propensity Score Method
+  <li> Quantification of uncertainty in dynamic functional connectivity in brain functional MRI imaging data</li>
+  <li> Early stopping and personalized design for real-time functional MRI experimentation</li>
+  <li> Spatial statistics and infectious disease </li>
+  <li> Propensity Score Method</li>
  </ul>
 
 <p> 
@@ -28,10 +28,10 @@ My research focuses on
 Besides my thesis work, I have over 7 years of experience in collaboration work as a Research
 Assistant in Biostatistics. I have hands-on experience in
  <ul> 
-  <li> Phase I and III oncology clinical trial data in hospital and pharmaceutical company
-  <li> Cross-sectional study in neurology and infectious disease 
-  <li> Longitudinal study of myopia surgery 
-  <li> Grant proposal and sample size calculation for various studies
+  <li> Phase I and III oncology clinical trial data in hospital and pharmaceutical company</li>
+  <li> Cross-sectional study in neurology and infectious disease </li>
+  <li> Longitudinal study of myopia surgery </li>
+  <li> Grant proposal and sample size calculation for various studies</li>
  </ul>
 
  <p>The statistical software I use includes 7+ years in R, 4+ years in MATLAB, 3 years in SAS, and 1 year in Python.
