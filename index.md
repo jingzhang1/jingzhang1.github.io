@@ -11,7 +11,8 @@ title: Home
 <div class="row">
   <p>
 I am Jing Zhang, a PhD candidate in Biostatistics at <a href="https://case.edu/medicine/pqhs/">Department of Population and Quantitative Health Science</a>, <a href="https://case.edu/">Case Western Reserve University</a>. 
-   
+
+
 My PhD research focuses on developing statistical methods for brain functional MRI imaging data,
 aimed at improving the quantification of uncertainty in dynamic functional connectivity. This work
 is pivotal in helping accurate statistical inference for the dynamically changing brain connectivity
@@ -19,6 +20,7 @@ and is crucial for guiding surgeons in brain tumor resection decisions. My Maste
 the intersection of spatial statistics and infectious disease. I use spatial statistics for the detection of
 spatial clusters of infectious disease and investigate the risk factors for the treatment outcome of
 tuberculosis.
+
 
 Besides my thesis work, I have over 7 years of experience in collaboration work as a Research
 Assistant in Biostatistics. I have hands-on experience in statistical analysis of various types of
