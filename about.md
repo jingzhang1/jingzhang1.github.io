@@ -6,9 +6,9 @@ title: Education and Experience
 **[Case Western Reserve University](https://case.edu/)**, Cleveland, OH  
 * PhD candidate in Biostatistics,  *Aug 2019- Aug 2024 (Expected)*  
 
-**[Fudan University](http://www.fudan.edu.cn/en/)**, Shanghai  
-* Master of Science in Biostatistics, GPA 3.54/4.0 *June 2019*  
-* Bachelor of Medicine in Clinical Medicine *June 2016*    
+**[Fudan University](http://www.fudan.edu.cn/en/)**, Shanghai, China  
+* Master of Science in Biostatistics,  *June 2019*  
+* Bachelor of Medicine in Clinical Medicine  *June 2016*    
 
 **[Duke University](https://www.duke.edu/)**, Durham, NC *Summer 2016*  
 * Summer Session Student  
