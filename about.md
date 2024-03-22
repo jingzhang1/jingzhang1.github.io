@@ -25,7 +25,7 @@ title: Education and Experience
 * Deliverable: parameterized R markdown file for future data analysis
 
 **[Fudan University](http://www.fudan.edu.cn/en/)**, **_Research Assistant_**, Shanghai *Fall 2016-June 2019*  
-* Statistical analysis: Longitudinal analysis of myopia surgery using linear mixed model ([Publication](https://www.frontiersin.org/articles/10.3389/fmed.2020.521078/full)); Cross-sectional study of infectious diseases([Publication](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0008070)); Phase III clinical trial of gastric cancer using survival analysis  
+* Statistical analysis: Longitudinal analysis of myopia surgery using linear mixed model ([Publication](https://www.frontiersin.org/articles/10.3389/fmed.2020.521078/full)); Cross-sectional study of infectious diseases([Publication 1](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0008070),[2](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0225361)); Phase III clinical trial of gastric cancer using survival analysis  
 
 **[Center for Disease Control and Prevention](http://www.scdc.sh.cn/indexEn.shtml)**, **_Research intern_**, Shanghai *Fall 2017*  
 * Data preparation for tuberculosis surveillance data in Shanghai from 1992-2016  
