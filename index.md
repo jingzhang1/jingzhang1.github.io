@@ -10,18 +10,24 @@ title: Home
 <div>
 <div class="row">
   <p>
-  I am Jing Zhang, a first year PhD student in Epidemiology and Biostatistics at <a href="http://epbiwww.case.edu/">Department of Population and Quantative Health Science</a>, <a href="https://case.edu/">Case Western Reserve University</a>. 
+I am Jing Zhang, a PhD candidate in Biostatistics at <a href="https://case.edu/medicine/pqhs/">Department of Population and Quantitative Health Science</a>, <a href="https://case.edu/">Case Western Reserve University</a>. 
    
-  During the study of Master of Science in Biostatistics in <a href="http://www.fudan.edu.cn/en/">Fudan University</a>, I was fortunately supervised by <a href="https://www.researchgate.net/profile/Henry_Lynn2"> Prof. Henry S Lynn</a> and also work with <a href="https://scholar.google.com/citations?hl=zh-CN&user=xq-7QVQAAAAJ&view_op=list_works&sortby=pubdate"> Prof. Zhijie Zhang</a>.   
-  
-  I am broadly interested in statistical methodology and application in public health. Some of my interests are
-  <p>
-  <ul>
-  <li> Spatial statistics, eg. spatially varying coefficient models; </li>
-  <li> Propensity score estimation, eg. robustness to uncontrolled confounders; </li>   
-  <li> Infectious disease modelling and epidemiology, especially tuberculosis; </li>
-  <li> Clinical trials design and analysis </li>
-  </ul>
+My PhD research focuses on developing statistical methods for brain functional MRI imaging data,
+aimed at improving the quantification of uncertainty in dynamic functional connectivity. This work
+is pivotal in helping accurate statistical inference for the dynamically changing brain connectivity
+and is crucial for guiding surgeons in brain tumor resection decisions. My Master study's research is at
+the intersection of spatial statistics and infectious disease. I use spatial statistics for the detection of
+spatial clusters of infectious disease and investigate the risk factors for the treatment outcome of
+tuberculosis.
+
+Besides my thesis work, I have over 7 years of experience in collaboration work as a Research
+Assistant in Biostatistics. I have hands-on experience in statistical analysis of various types of
+studies, such as a cross-sectional study of human vagus nerve, a longitudinal analysis of myopia
+surgery, and a Phase III clinical trial of gastric cancer. I also participate in the study designs for the
+grant proposal, such as an NIH contract ($15.75 million) for mapping the human vagus nerve, an
+NIH STTR grant for intra-operative fMRI during brain tumor surgery, and a Phase I clinical trial of
+pancreatic cancer. These collaborations have enhanced my ability to communicate statistical
+concepts and study design considerations effectively with medical professionals.
  
- Download my CV <a href="assets/pdfs/Resume_Jing Zhang 2020.03.pdf">here</a>
- <img src="https://jingzhang1.github.io/assets/images/mmexport1515251236988_mr1515251523635yasuo1.jpg" width= "200" >
+ Download my CV <a href="assets/pdfs/Resume_Jing Zhang 2024.pdf">here</a>
+ <img src="https://github.com/jingzhang1/jingzhang1.github.io/blob/master/assets/images/new%20headshot.jpeg" width= "200" >
