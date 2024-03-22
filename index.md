@@ -33,5 +33,8 @@ Assistant in Biostatistics. I have hands-on experience in
   <li> Longitudinal study of myopia surgery 
   <li> Grant proposal and sample size calculation for various studies
  </ul>
+
+ <p>The statistical software I use includes 7+ years in R, 4+ years in MATLAB, 3 years in SAS, and 1 year in Python.
+
  <p>Download my CV <a href="assets/pdfs/Resume_Jing Zhang 2024.pdf">here</a>
  
