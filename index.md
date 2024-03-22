@@ -13,23 +13,25 @@ title: Home
 I am Jing Zhang, a PhD candidate in Biostatistics at <a href="https://case.edu/medicine/pqhs/">Department of Population and Quantitative Health Science</a>, <a href="https://case.edu/">Case Western Reserve University</a>. 
 
 
-<p>My PhD research focuses on developing statistical methods for brain functional MRI imaging data,
-aimed at improving the quantification of uncertainty in dynamic functional connectivity. This work
-is pivotal in helping accurate statistical inference for the dynamically changing brain connectivity
-and is crucial for guiding surgeons in brain tumor resection decisions. My Master study's research is at
-the intersection of spatial statistics and infectious disease. I use spatial statistics for the detection of
-spatial clusters of infectious disease and investigate the risk factors for the treatment outcome of
-tuberculosis.
-
-
-<p>Besides my thesis work, I have over 7 years of experience in collaboration work as a Research
-Assistant in Biostatistics. I have hands-on experience in statistical analysis of various types of
-studies, such as a cross-sectional study of human vagus nerve, a longitudinal analysis of myopia
-surgery, and a Phase III clinical trial of gastric cancer. I also participate in the study designs for the
-grant proposal, such as an NIH contract ($15.75 million) for mapping the human vagus nerve, an
-NIH STTR grant for intra-operative fMRI during brain tumor surgery, and a Phase I clinical trial of
-pancreatic cancer. These collaborations have enhanced my ability to communicate statistical
-concepts and study design considerations effectively with medical professionals.
+<p> 
  
+My research focuses on 
+ <ul> 
+  <li> Quantification of uncertainty in dynamic functional connectivity in brain functional MRI imaging data
+  <li> Early stopping and personalized design for real-time functional MRI experimentation
+  <li> Spatial statistics and infectious disease 
+  <li> Propensity Score Method
+</ul>
+
+<p> 
+ 
+Besides my thesis work, I have over 7 years of experience in collaboration work as a Research
+Assistant in Biostatistics. I have hands-on experience in
+ <ul> 
+  <li> Phase I and III oncology clinical trial data in hospital and pharmaceutical company
+  <li> Cross-sectional study in neurology and infectious disease 
+  <li> Longitudinal study of myopia surgery 
+  <li> Grant proposal and sample size calculation for various studies
+</ul>
  <p>Download my CV <a href="assets/pdfs/Resume_Jing Zhang 2024.pdf">here</a>
  
